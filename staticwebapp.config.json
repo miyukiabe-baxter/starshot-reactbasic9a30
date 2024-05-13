@@ -18,6 +18,13 @@
       "headers": {
         "name1": "value1"
       }
+    },
+    {
+      "route": "/test2",
+      "methods": [
+        "post",
+        "put"
+      ]
     }
   ]
 }
