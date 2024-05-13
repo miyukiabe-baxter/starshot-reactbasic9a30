@@ -4,20 +4,13 @@
   },
   "routes": [
     {
-      "route": "/profile-testees-2",
-      "methods": [
-        "get"
-      ],
-      "rewrite": "/item/123",
-      "redirect": "/new-url",
-      "statusCode": 200,
-      "allowedRoles": [
-        "admin",
-        "authenticated"
-      ],
-      "headers": {
-        "name1": "value1"
-      }
+      "route": "/profile-test-1"
+    },
+    {
+      "route": "/profile-test-2"
+    },
+    {
+      "route": "/profile-test-3"
     }
   ]
 }
