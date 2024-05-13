@@ -4,7 +4,18 @@
   },
   "routes": [
     {
-      "route": "/profile-test-1"
+      "route": "/profile-test-1",
+      "methods": [
+        "get",
+        "head",
+        "post",
+        "put",
+        "delete",
+        "connect",
+        "options",
+        "trace",
+        "patch"
+      ]
     },
     {
       "route": "/profile-test-2"
