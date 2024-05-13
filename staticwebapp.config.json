@@ -4,7 +4,7 @@
   },
   "routes": [
     {
-      "route": "/profile-test-1",
+      "route": "/test-1",
       "methods": [
         "get",
         "head",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "route": "/profile-test-2"
+      "route": "/test-2"
     },
     {
-      "route": "/profile-test-3"
+      "route": "/test-3"
     }
   ]
 }
