@@ -4,7 +4,7 @@
   },
   "routes": [
     {
-      "route": "/profile",
+      "route": "/profile-test",
       "methods": [
         "get"
       ],
