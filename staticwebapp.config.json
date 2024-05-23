@@ -5,6 +5,9 @@
   "routes": [
     {
       "route": "test-2"
+    },
+    {
+      "route": "tet"
     }
   ]
 }
